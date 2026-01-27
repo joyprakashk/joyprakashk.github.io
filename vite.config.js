@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
 export default defineConfig({
+  base: '/',  //since deploying to joyprakashk.github.io
   plugins: [react()],
-  assetsInclude: ['**/*.glb'],
+  assetsInclude: ['**/*.glb'],  //maintain your existing GLB support
 })
