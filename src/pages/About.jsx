@@ -49,7 +49,7 @@ const About = () => {
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
             I've worked in a number of projects as part of my freelancing, constantly upskilling myself in the process, as well bringing my clients' idea to life.
-            Here's the rundown of my personal projects:
+            Here's the rundown of few of my personal projects:
           </p>
         </div>
 
