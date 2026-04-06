@@ -17,14 +17,11 @@ const About = () => {
           {" "}
           Joyprakash Kalita
         </span>{" "}
-        👋
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Fluent in UI/UX Design, DevOps, ML, Deep Learning, and Gen-AI. Worked extensively on LLMs, NLP, and Foundational Models.
-          Interested in Open Source contributions. Skilled in MERN Stack Development and Cloud Computing. 
-          Passionate about exploring new technologies and building innovative solutions. Winner of 5+ National and International level Hackathons.
+           Software Engineer specialized in full-stack architecture, Web3, and applied AI. Expertise in MERN stack, Spring Boot, GoFr and Python stack. Technical background encompasses decentralized systems, LLMs, NLP, and distributed databases including SQL, Redis, and MongoDB. Demonstrated engineering impact through 7+ global hackathon wins and co-authored research on blockchain-based supply chain transparency. Proficient in containerization via Docker and Kubernetes with a focus on scalable, high-performance system design.
         </p>
       </div>
 
